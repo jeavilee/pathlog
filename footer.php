@@ -1,5 +1,5 @@
 <footer id="footer"> 
-		<div class="copy">Copyright &copy;  2010-2013 <?php $this->options->title() ?>
+		<div class="copy">Copyright &copy;  2010-2013 <?php $this->options->title() ?> / Theme by <a href="http://pagecho.com">cho</a>
 			<span class="back2top">
 				<a rel="nofollow" href="<?php $this->options->siteUrl(); ?>feed" target="_blank">Rss</a> / 
 				<a href="<?php $this->options->siteUrl(); ?>about">About</a> / 
